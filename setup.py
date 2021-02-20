@@ -14,7 +14,6 @@ setuptools.setup(
     version=wbubbler.__version__,
     author='JMcB',
     author_email='joel.mcbride1@live.com',
-    license='GPLv3',
     description='The Wbubbler package.',
     long_description=long_description,
     long_description_content_type='text/markdown',
